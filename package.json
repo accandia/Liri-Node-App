@@ -1,16 +1,19 @@
 {
   "name": "lori-node-app",
-  "version": "1.0.0",
-  "description": "Homework 8",
-  "main": "index.js",
+  "version": "0.0.1",
+  "description": "Liri really",
+  "main": "liri.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "123 123"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/accandia/lori-node-app.git"
   },
-  "keywords": [],
+  "keywords": [
+    "liri",
+    "app"
+  ],
   "author": "Carlos Candia",
   "license": "ISC",
   "bugs": {
